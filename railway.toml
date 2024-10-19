@@ -1,0 +1,3 @@
+[build]
+  command = "pip install -r requirements.txt"
+  publish = "your_script_name.py"  # Replace with your main script name
